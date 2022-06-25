@@ -1,5 +1,5 @@
 ### Projeto MDB
-    Desenvolvido usando React junto a API do TMDb;
+    Desenvolvido usando React com a API do TMDb
 
 ### [Link Surge](http://flippant-tent.surge.sh/)
 
